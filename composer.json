@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminjobs",
+    "name": "codica-studio/adminjobs",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminjobs",
+    "homepage": "https://github.com/codica-studio/adminjobs",
     "license": "MIT",
     "authors": [
         {
