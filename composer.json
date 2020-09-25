@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminjobs",
+    "name": "codicastudio/jobs-manager",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminjobs",
+    "homepage": "https://github.com/codicastudio/jobs-manager",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,6 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "dragonmantank/cron-expression": "^2.2 | ^3.0",
-        "laravel/nova": "^3.0",
         "illuminate/console": "^^8.0"
     },
     "require-dev": {
@@ -42,12 +41,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://nova.laravel.com"
-        }
-    ]
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
